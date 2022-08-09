@@ -3,6 +3,7 @@
 Simple proof of concept to test Singularity SIF container image with Snyk
 
 #### Requirements
+- *singularity* (https://github.com/sylabs/singularity)
 - *stacker* (https://github.com/project-stacker/stacker)
 - *snyk* (https://github.com/snyk/cli)
 - *squashfs-tools-ng* (https://github.com/AgentD/squashfs-tools-ng)
